@@ -13,6 +13,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\ayerlashov\\Desktop\\GCP\\Keys\\gpc-dotnetcore-viability-test-1a8efe131f18.json",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
